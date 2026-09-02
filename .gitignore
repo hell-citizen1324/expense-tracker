@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Packaging
+# Packaging output
+packaging/expense-tracker/
+packaging/*.deb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
